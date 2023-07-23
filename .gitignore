@@ -54,3 +54,4 @@ dkms.conf
 # app
 i2cdev
 lsm6dsr-app
+spi-channel-app
